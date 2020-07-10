@@ -14,7 +14,7 @@ Sou Douglas dos Reis Couto, desenvolvedor Back-And apaixonado por tecnologia.
 
 - 🔭 Atualmente estou trabalhando em aplicativos/sistemas PHP/Laravel.
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript.
-- 💬 Pergunte-me sobre: Tecnologia, café e games.
+- 💬 Pergunte-me sobre: Tecnologia e games.
 - ⚡ Tecnologias: PHP, C++, Java e C#.
 
 "A meta de hoje ser melhor que ontem, não melhor que ninguém ".
