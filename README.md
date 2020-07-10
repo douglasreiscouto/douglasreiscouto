@@ -10,7 +10,7 @@
 
 ## Oi 👋,
 
-Sou Douglas dos Reis Couto, Curso Análise e desenvolvimento de sistemas. Sou um desenvolvedor Back-And 👨‍💻, aplico meus conhecimentos para resolução de problemas.
+Sou Douglas dos Reis Couto, desenvolvedor Back-And apaixonado por tecnologia.
 
 - 🔭 Atualmente estou trabalhando em aplicativos/sistemas PHP/Laravel.
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript.
