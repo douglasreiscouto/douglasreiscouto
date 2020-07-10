@@ -17,4 +17,4 @@ Sou Douglas dos Reis Couto, desenvolvedor Back-And apaixonado por tecnologia.
 - 💬 Pergunte-me sobre: Tecnologia e games.
 - ⚡ Tecnologias: PHP, C++, Java e C#.
 
-"A meta de hoje ser melhor que ontem, não melhor que ninguém ".
+A meta de hoje é ser melhor que ontem, não melhor que ninguém!
