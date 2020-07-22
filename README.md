@@ -10,7 +10,7 @@
 
 ## Oi 👋,
 
-Sou Douglas dos Reis Couto, desenvolvedor Back-And apaixonado por tecnologia.
+Sou Douglas, desenvolvedor Back-And apaixonado por tecnologia.
 
 - 🔭 Atualmente estou trabalhando em aplicativos/sistemas PHP/Laravel.
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript.
