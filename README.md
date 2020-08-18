@@ -9,7 +9,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527995762809&text=Olá!)](https://api.whatsapp.com/send?phone=5527995762809&text=Olá!)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/200645/douglas-reis?tab=profile)](https://pt.stackoverflow.com/users/200645/douglas-reis?tab=profile)
 
-## Oi 👋,
+## Oi 👋🏼,
 
 Sou Douglas, desenvolvedor Back-And apaixonado por tecnologia.
 
