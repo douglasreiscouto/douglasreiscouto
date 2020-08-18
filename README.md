@@ -1,10 +1,8 @@
 # :man_technologist: Douglas dos Reis Couto
 
-[![Github Badge](https://img.shields.io/badge/Douglas-Reis-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Douglas-Reis)](https://github.com/Douglas-Reis)
 [![Linkedin Badge](https://img.shields.io/badge/douglasreiscouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasreiscouto/)](https://www.linkedin.com/in/douglasreiscouto/)
 [![Instagram Badge](https://img.shields.io/badge/douglasreiscouto-ae0b33?style=flat-square&labelColor=ae0b33&logo=instagram&logoColor=white&link=https://instagram.com/douglasreiscouto)](https://instagram.com/douglasreiscouto/)
 [![Telegram Badge](https://img.shields.io/badge/douglasreiscouto-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/douglasreiscouto)](https://t.me/douglasreiscouto)
-[![Stackoverflow Badge](https://img.shields.io/badge/Douglas-Reis-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/200645/douglas-reis?tab=profile)](https://pt.stackoverflow.com/users/200645/douglas-reis?tab=profile)
 [![Twitter Badge](https://img.shields.io/badge/douglasr_couto-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglasr_couto)](https://twitter.com/douglasr_couto)
 
 
