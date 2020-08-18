@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglas_r_c)](https://twitter.com/douglasr_couto)
 
 
-## Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="22px">
+## Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="26px">
 
 Sou Douglas, desenvolvedor Back-And apaixonado por tecnologia.
 
