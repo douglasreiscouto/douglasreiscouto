@@ -11,7 +11,7 @@
 
 ## Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="26px">
 
-Sou Douglas, desenvolvedor Back-And apaixonado por tecnologia.
+Sou Douglas, desenvolvedor Back-and apaixonado por tecnologia.
 
 - 🔭 Atualmente trabalhando em projetos desenvolvidos em PHP/Laravel.
 - 🌱 Estou estudando PHP/Laravel.
