@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/douglasreiscouto)](https://instagram.com/douglasreiscouto/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/douglasreiscouto)](https://t.me/douglasreiscouto)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/200645/douglas-reis)](https://pt.stackoverflow.com/users/200645/douglas-reis)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglasr_couto)](https://twitter.com/douglasr_couto)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglasr_couto)](https://twitter.com/douglascouto_)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasdosreiscouto@gmail.com)](mailto:douglasdosreiscouto@gmail.com)
 
 ## Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="26px">
