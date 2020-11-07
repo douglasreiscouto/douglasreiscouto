@@ -1,47 +1,42 @@
-# :man_technologist: Douglas dos Reis Couto
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasreiscouto/)](https://www.linkedin.com/in/douglasreiscouto/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/douglasreiscouto)](https://instagram.com/douglasreiscouto/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/douglasreiscouto)](https://t.me/douglasreiscouto)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/200645/douglas-reis)](https://pt.stackoverflow.com/users/200645/douglas-reis)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglasr_couto)](https://twitter.com/douglascouto_)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasdosreiscouto@gmail.com)](mailto:douglasdosreiscouto@gmail.com)
+# Douglas dos Reis Couto
 
 ## Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="26px">
 
 Sou Douglas, desenvolvedor Back-end apaixonado por tecnologia.
 
-- 🔭 Atualmente trabalhando em projetos desenvolvidos em PHP/Laravel.
-- 🌱 Estou estudando PHP/Laravel.
-- 💬 Pergunte-me sobre: Tecnologia, música e games.
-- ⚡ linguagens: C++, C e Java.
+[Liks](https://linktr.ee/douglasreiscouto) de contato.
+
+💻  &nbsp; Tecnologias conhecidas:<br/>
+
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logoColor=fff&logo=Windows)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat&logoColor=fff&logo=Microsoft)&nbsp;
+![C++](https://img.shields.io/badge/-C++-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logoColor=fff&logo=java)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logoColor=fff&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logoColor=fff&logo=CSS3)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=laravel)&nbsp;
+![Git](https://img.shields.io/badge/-Git-ff2d20?style=flat&logoColor=fff&logo=Git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logoColor=fff&logo=GitHub)&nbsp;
 
 <details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=Douglas-Reis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Douglas-Reis/Douglas-Reis)
-
-## Tecnologias
-#### Conhecidas
-  ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=C&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-5849BE?style=flat-square&logo=Eclipse&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-#### Interesse
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-  ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-#### Estudando
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-5849BE?style=flat-square&logo=PHP&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat-square&logo=Laravel&logoColor=white)
-  ---
+  <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary>
+  <table>
+    <tr>
+      <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula"/>
+      <img width="423px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/>
+      <img width="930px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=compact"/>
+    </tr>
+  </table>
 </details>
+
+## Sigam-me, vamos bater um papo.
+
+<p align="center">
+<a href="https://twitter.com/douglascouto_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglascouto_" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasreiscouto" height="20" width="20" /></a>
+<a href="https://fb.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="douglasreiscouto" height="20" width="20" /></a>
+<a href="https://instagram.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasreiscouto" height="20" width="20" /></a>
+</p>
 
 - A meta de hoje é ser melhor que ontem, não melhor que ninguém!
