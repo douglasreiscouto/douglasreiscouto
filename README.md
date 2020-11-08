@@ -1,12 +1,12 @@
-# Douglas dos Reis Couto
+<h1>:man_technologist: Douglas dos Reis Couto</h1>
 
 ## Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="26px">
 
 Sou Douglas, desenvolvedor Back-end apaixonado por tecnologia.
 
-[Liks](https://linktr.ee/douglasreiscouto) de contato.
+[Liks](https://linktr.ee/douglasreiscouto) para contato.
 
-💻  &nbsp; Tecnologias conhecidas:<br/>
+## 💻  &nbsp; Tecnologias conhecidas
 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logoColor=fff&logo=Windows)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat&logoColor=fff&logo=Microsoft)&nbsp;
@@ -19,16 +19,20 @@ Sou Douglas, desenvolvedor Back-end apaixonado por tecnologia.
 ![Git](https://img.shields.io/badge/-Git-ff2d20?style=flat&logoColor=fff&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logoColor=fff&logo=GitHub)&nbsp;
 
-<details>
-  <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary>
-  <table>
-    <tr>
-      <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula"/>
-      <img width="423px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/>
-      <img width="930px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=compact"/>
-    </tr>
-  </table>
-</details>
+ <h2 align="center">Mais detalhes <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/pointing.gif" width="15px"></h2>
+ <div class="row">
+  <div class="coluna">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula" alt="Estatísticas" style="width:100%" >
+  </div>
+  <div class="coluna">
+    <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
+  </div>
+</div>
+<table>
+  <tr>
+  <img width="920px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=compact"/>
+  </tr>
+</table>
 
 ## Sigam-me, vamos bater um papo.
 
@@ -38,5 +42,3 @@ Sou Douglas, desenvolvedor Back-end apaixonado por tecnologia.
 <a href="https://fb.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="douglasreiscouto" height="20" width="20" /></a>
 <a href="https://instagram.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasreiscouto" height="20" width="20" /></a>
 </p>
-
-- A meta de hoje é ser melhor que ontem, não melhor que ninguém!
