@@ -4,7 +4,7 @@
 
 Sou Douglas, desenvolvedor Back-end apaixonado por tecnologia.
 
-[Liks](https://linktr.ee/douglasreiscouto) para contato.
+[Links](https://linktr.ee/douglasreiscouto) para contato.
 
 <h2>Tecnologias conhecidas 💻</h2>
 
@@ -19,21 +19,22 @@ Sou Douglas, desenvolvedor Back-end apaixonado por tecnologia.
 ![Git](https://img.shields.io/badge/-Git-ff2d20?style=flat&logoColor=fff&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logoColor=fff&logo=GitHub)&nbsp;
 
-<h2>Mais detalhes <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/pointing.gif" width="15px"></h2>
- <div class="row">
-  <div class="coluna">
-    <img width="490px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula" alt="Estatísticas" style="width:100%" >
-  </div>
-  <div class="coluna">
-    <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
-  </div>
-</div>
-
+<details>
+  <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary>
+   <div class="row">
+     <div class="coluna">
+      <img width="490px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula" alt="Estatísticas" style="width:100%" >
+   </div>
+   <div class="coluna">
+     <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
+   </div>
+ </div>
 <table>
  <tr>
   <img width="900px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=compact"/>
  </tr>
 </table>
+</details>
 
 <h1>Siga-me, vamos bater um papo.</h1>
 
