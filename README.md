@@ -8,6 +8,7 @@ Me chamo [Douglas](https://linktr.ee/douglasreiscouto), sou desenvolvedor Back-e
 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logoColor=fff&logo=Windows)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat&logoColor=fff&logo=Microsoft)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-6633CC?style=flat&logoColor=fff&logo=Eclipse)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logoColor=fff&logo=java)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
@@ -37,8 +38,8 @@ Me chamo [Douglas](https://linktr.ee/douglasreiscouto), sou desenvolvedor Back-e
 <h3>Siga-me, vamos bater um papo.</h3>
 
 <p align="left">
-<a href="https://twitter.com/douglascouto_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglascouto_" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasreiscouto" height="30" width="30" /></a>
-<a href="https://fb.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="douglasreiscouto" height="30" width="30" /></a>
-<a href="https://instagram.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasreiscouto" height="30" width="30" /></a>
+<a href="https://twitter.com/douglascouto_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglascouto_" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasreiscouto" height="25" width="25" /></a>
+<a href="https://fb.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="douglasreiscouto" height="25" width="25" /></a>
+<a href="https://instagram.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasreiscouto" height="25" width="25" /></a>
 </p>
