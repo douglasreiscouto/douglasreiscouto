@@ -22,15 +22,15 @@ Me chamo [Douglas](https://linktr.ee/douglasreiscouto), sou desenvolvedor Back-e
   <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary></2>
    <div class="row">
      <div class="coluna">
-      <img width="430px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula" alt="Estatísticas" style="width:100%" >
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula" alt="Estatísticas" style="width:100%" >
    </div>
    <div class="coluna">
-     <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
+     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
    </div>
  </div>
 <table>
  <tr>
-  <img width="795px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=compact"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=compact"/>
  </tr>
 </table>
 </details>
