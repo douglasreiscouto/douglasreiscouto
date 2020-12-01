@@ -2,7 +2,7 @@
 
 <h2> Olá! <img src="https://github.com/Douglas-Reis/Douglas-Reis/blob/master/assets/hi.gif" width="26px"></h2>
 
-Me chamo [Douglas](https://linktr.ee/douglasreiscouto), sou desenvolvedor Back-end, residente de São Gabriel da Palha - ES, Brasil. Atuante na área de tecnologia desde 2015, cursando 6° período de Análise e Desenvolvimento de Sistemas. Possuo afinidade com o campo da programação, aplicando meus conhecimentos para resolução de problemas. Tenho experiência com rede de computadores, atendimento ao cliente e suporte ao usuário. Atualmente dedico o meu tempo estudando desenvolvimento web em PHP/Laravel.
+Me chamo [Douglas](https://douglas-reis.github.io/portfolio/), sou desenvolvedor Back-end, residente de São Gabriel da Palha - ES, Brasil. Atuante na área de tecnologia desde 2015, cursando 6° período de Análise e Desenvolvimento de Sistemas. Possuo afinidade com o campo da programação, aplicando meus conhecimentos para resolução de problemas. Tenho experiência com rede de computadores, atendimento ao cliente e suporte ao usuário. Atualmente dedico o meu tempo estudando desenvolvimento web em PHP/Laravel.
 
 <h3>Tecnologias conhecidas 💻</h3>
 
