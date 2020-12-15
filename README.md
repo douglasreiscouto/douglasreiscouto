@@ -22,10 +22,10 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
   <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary></2>
    <div class="row">
      <div class="coluna">
-      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Reis&theme=dracula" alt="Estatísticas" style="width:100%" >
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=dracula" alt="Estatísticas" style="width:100%" >
    </div>
    <div class="coluna">
-     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Reis&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
+     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&layout=compact&theme=dracula"/ alt="Top linguagens" style="width:100%">
    </div>
  </div>
 <table>
