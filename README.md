@@ -25,12 +25,12 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
       <img width="450px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas" style="width:100%" >
    </div>
    <div class="coluna">
-     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&layout=compact&theme=radical"/ alt="Top linguagens" style="width:100%">
+     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens" style="width:100%">
    </div>
  </div>
 <table>
  <tr>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=dracula&layout=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=radical"/>
  </tr>
 </table>
 </details>
