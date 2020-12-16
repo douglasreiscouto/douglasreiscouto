@@ -38,7 +38,7 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
 <h3>Siga-me, vamos bater um papo.</h3>
 
 <p align="left">
-<a href="https://twitter.com/douglascouto_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglascouto_" height="40" width="40" /></a>
+<a href="https://twitter.com/douglasreiscout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglascouto_" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasreiscouto" height="40" width="40" /></a>
 <a href="https://fb.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="douglasreiscouto" height="40" width="40" /></a>
 <a href="https://instagram.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasreiscouto" height="40" width="40" /></a>
