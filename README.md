@@ -7,6 +7,7 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
 <h3>Tecnologias conhecidas 💻</h3>
 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logoColor=fff&logo=Windows)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logoColor=fff&logo=linux)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat&logoColor=fff&logo=Microsoft)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-6633CC?style=flat&logoColor=fff&logo=Eclipse)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
