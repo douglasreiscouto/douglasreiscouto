@@ -13,6 +13,7 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
 ![C++](https://img.shields.io/badge/-C++-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logoColor=fff&logo=java)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-00000F?style=flat&logoColor=fff&logo=MySql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logoColor=fff&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logoColor=fff&logo=CSS3)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=laravel)&nbsp;
