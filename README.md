@@ -24,17 +24,12 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
   <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary></2>
    <div class="row">
      <div class="coluna">
-      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas" style="width:100%" >
+      <img width="500px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas" style="width:100%" >
    </div>
    <div class="coluna">
-     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens" style="width:100%">
+     <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens" style="width:100%">
    </div>
  </div>
-<table>
- <tr>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=radical"/>
- </tr>
-</table>
 </details>
 
 <h3>Siga-me, vamos bater um papo.</h3>
