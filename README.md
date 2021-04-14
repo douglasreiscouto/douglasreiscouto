@@ -2,15 +2,18 @@
 
 <h2> Olá! <img src="https://github.com/douglasreiscouto/douglasreiscouto/blob/master/assets/hi.gif" width="30px"></h2>
 
-Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolvedor Back-end, residente de São Gabriel da Palha - ES, Brasil. Atuante na área de tecnologia desde 2015, graduado em Análise e Desenvolvimento de Sistemas. Possuo afinidade com o campo da programação, aplicando meus conhecimentos para resolução de problemas. Tenho experiência com rede de computadores, atendimento ao cliente e suporte ao usuário. Atualmente dedico o meu tempo estudando desenvolvimento web em PHP/Laravel.
+Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), Sou apaixonado por Tecnologia, desenvolvimento e marcas que trabalham para contribuir com uma melhor interação digital.
+
+Estudo desenvolvimento de software e sou graduado em Análise e Desenvolvimento de Sistemas. Atuo na área de Tecnologia da Informação desde 2015, onde vivi experiências reais do dia a dia de um profissional de TI, com muito trabalho em equipe e mão na massa.
+
+Tenho foco e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
+
 
 <h3>Tecnologias conhecidas 💻</h3>
 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logoColor=fff&logo=Windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logoColor=fff&logo=linux)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat&logoColor=fff&logo=Microsoft)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-6633CC?style=flat&logoColor=fff&logo=Eclipse)&nbsp;
-![C++](https://img.shields.io/badge/-C++-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logoColor=fff&logo=java)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-00000F?style=flat&logoColor=fff&logo=MySql)&nbsp;
@@ -29,6 +32,11 @@ Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), sou desenvolv
    <div class="coluna">
      <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens" style="width:100%">
    </div>
+  <table>
+ <tr>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=radical"/>
+ </tr>
+</table>
  </div>
 </details>
 
