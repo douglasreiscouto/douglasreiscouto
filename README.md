@@ -1,4 +1,4 @@
-<h1>Bem vindx ao meu mundo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px />! Me chamo <a href="https://douglasreiscouto.github.io/portfolio/">Douglas</a></h1> 
+<h1>Bem vindx ao meu mundo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" target="_blanck" width = 25px />! Me chamo <a href="https://douglasreiscouto.github.io/portfolio/">Douglas</a></h1> 
 <p>
     Sou Coordenador de Sistemas na <a href="https://cooabriel.coop.br/pt/">@cooabriel</a>, a maior cooperativa de café conilon do Brasil.
 </p>
