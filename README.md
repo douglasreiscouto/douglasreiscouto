@@ -1,50 +1,54 @@
-<h1>:man_technologist: Douglas dos Reis Couto</h1>
-
-<h2> Olá! <img src="https://github.com/douglasreiscouto/douglasreiscouto/blob/master/assets/hi.gif" width="30px"></h2>
-
-Me chamo [Douglas](https://douglasreiscouto.github.io/portfolio/), Sou apaixonado por Tecnologia, desenvolvimento e marcas que trabalham para contribuir com uma melhor interação digital.
-
-Estudo desenvolvimento de software e sou graduado em Análise e Desenvolvimento de Sistemas. Atuo na área de Tecnologia da Informação desde 2015, onde vivi experiências reais do dia a dia de um profissional de TI, com muito trabalho em equipe e mão na massa.
-
-Tenho foco e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
-
-
-<h3>Tecnologias conhecidas 💻</h3>
-
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logoColor=fff&logo=Windows)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logoColor=fff&logo=linux)&nbsp;
-![C++](https://img.shields.io/badge/-C-099cec?style=flat&logoColor=fff&logo=C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logoColor=fff&logo=java)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![MySql](https://img.shields.io/badge/-MySQL-00000F?style=flat&logoColor=fff&logo=MySql)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logoColor=fff&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logoColor=fff&logo=CSS3)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=laravel)&nbsp;
-![Git](https://img.shields.io/badge/-Git-ff2d20?style=flat&logoColor=fff&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logoColor=fff&logo=GitHub)&nbsp;
-
-<details>
-  <summary><b> Quer saber mais sobre mim?</b><i>(Clique aqui para expandir)</i></summary></2>
-   <div class="row">
-     <div class="coluna">
-      <img width="500px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas" style="width:100%" >
-   </div>
-   <div class="coluna">
-     <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens" style="width:100%">
-   </div>
-  <table>
- <tr>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=radical"/>
- </tr>
-</table>
- </div>
-</details>
-
-<h3>Siga-me, vamos bater um papo.</h3>
-
-<p align="left">
-<a href="https://twitter.com/douglasreiscout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglascouto_" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasreiscouto" height="40" width="40" /></a>
-<a href="https://fb.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="douglasreiscouto" height="40" width="40" /></a>
-<a href="https://instagram.com/douglasreiscouto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasreiscouto" height="40" width="40" /></a>
+<h1>Bem vindx ao meu mundo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px />! Me chamo <a href="https://douglasreiscouto.github.io/portfolio/">Douglas</a></h1> 
+<p>
+    Sou Coordenador de Sistemas na <a href="https://cooabriel.coop.br/pt/">@cooabriel</a>, a maior cooperativa de café conilon do Brasil.
 </p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/douglasreiscout?style=social)](https://twitter.com/douglasreiscout)
+[![Linkedin: douglasreiscouto](https://img.shields.io/badge/-douglasreiscouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasreiscouto/)](https://www.linkedin.com/in/douglasreiscouto/)
+[![Intagram: douglasreiscouto](https://img.shields.io/badge/-douglasreiscouto-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/douglasreiscouto/)](https://www.instagram.com/douglasreiscouto/)
+[![Spotify: douglasreiscouto](https://img.shields.io/badge/-douglasreiscouto-monochromatic?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/ilovgg)](https://open.spotify.com/user/ilovgg)
+
+<h2>⚡️ Fatos divertidos</h2>
+<ul>
+    <li>👨‍💻 Mantenho todos os meus projeto em meu <a href="https://github.com/douglasreiscouto">github</a></li>
+    <li>🎼 Sou amante de musica <a href="https://open.spotify.com/playlist/7nK43WpMPXNmxXEUsFmhbT" target="_blank" rel="noreferrer">eletrônica</a></li>
+    <li>🎮 Em horários vagos gosto de jogar Valorant com meus amigos</li>
+    <li>🎧 Meu hobby é ser DJ, gosto de tocar algumas musicas e criar <a href="https://soundcloud.com/douglasreisdj/douglas-reis-on-track-001">tracks</a></li>
+    <li>✍️ Às vezes gosto de compartilhar o que estou aprendendo em meu <a href="https://twitter.com/douglasreiscout">twitter</a></li>
+    <li>🌎 Tenho um portfólio que você pode acessar <a href="https://douglasreiscouto.github.io/portfolio/">aqui</a></li>	  
+</ul>
+
+<h2>🚀 Ferramentas e tecnologias</h2>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30"  />
+    <img src="http://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" alt="azuredevops" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30"   />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="30"   />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="ubuntu" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="30" />
+</p>
+
+<h2>👨‍💻 Trabalhos recentes</h2>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens">
+ 
+<h2>🐤Útlimas postagens</h2>
+<a href="https://twitter.com/douglasreiscout">
+  <img width="450px" src="https://github-readme-twitter-gazf.vercel.app/api?id=douglasreiscout&layout=wide&show_reply=on&show_retweet=on" />
+</a>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=douglasreiscouto&color=blue" alt="visitas ao perfil"  /></p>
+
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@douglasreiscouto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Douglas' WakaTime Stats">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=radical"/>--!>
