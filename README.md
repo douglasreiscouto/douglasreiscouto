@@ -43,7 +43,7 @@
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas">
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens">
  
-<h2>🐤Útlimas postagens</h2>
+<h2>🐤Últimas postagens</h2>
 <a href="https://twitter.com/douglasreiscout">
   <img width="450px" src="https://github-readme-twitter-gazf.vercel.app/api?id=douglasreiscout&layout=wide&show_reply=on&show_retweet=on" />
 </a>
