@@ -15,7 +15,7 @@
     <li>🎮 Em horários vagos gosto de jogar Valorant com meus amigos</li>
     <li>🎧 Meu hobby é ser DJ, gosto de tocar algumas musicas e criar <a href="https://soundcloud.com/douglasreisdj/douglas-reis-on-track-001">tracks</a></li>
     <li>✍️ Às vezes gosto de compartilhar o que estou aprendendo em meu <a href="https://twitter.com/douglasreiscout">twitter</a></li>
-    <li>🌎 Tenho um Gist, você pode acessa-lo <a href="https://douglasreiscouto.github.io/portfolio/">aqui</a></li>	  
+    <li>🌎 Tenho um Gist, você pode acessa-lo <a href="https://gist.github.com/douglasreiscouto">aqui</a></li>	  
 </ul>
 
 <h2>🚀 Ferramentas e tecnologias</h2>
