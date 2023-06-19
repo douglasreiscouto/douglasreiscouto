@@ -11,10 +11,10 @@
 <h2>⚡️ Fatos divertidos</h2>
 <ul>
     <li>👨‍💻 Mantenho todos os meus projeto em meu <a href="https://github.com/douglasreiscouto">github</a></li>
-    <li>🎼 Sou amante de musica <a href="https://open.spotify.com/playlist/7nK43WpMPXNmxXEUsFmhbT" target="_blank" rel="noreferrer">eletrônica</a></li>
+    <li>🎼 Sou amante de musica</li>
     <li>🎮 Em horários vagos gosto de jogar Valorant com meus amigos</li>
-    <li>🎧 Meu hobby é ser DJ, gosto de tocar algumas musicas e criar <a href="https://soundcloud.com/douglasreisdj/douglas-reis-on-track-001">tracks</a></li>
-    <li>✍️ Às vezes gosto de compartilhar o que estou aprendendo em meu <a href="https://twitter.com/douglasreiscout">twitter</a></li>
+    <li>🎧 Meu hobby é ser DJ, gosto de tocar algumas musicas e criar</li>
+    <li>✍️ Às vezes gosto de compartilhar o que estou aprendendo em meu <a href="https://twitter.com/douglascoutoo_">twitter</a></li>
     <li>🌎 Tenho um Gist, você pode acessa-lo <a href="https://gist.github.com/douglasreiscouto">aqui</a></li>	  
 </ul>
 
