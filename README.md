@@ -3,7 +3,7 @@
     Sou Coordenador de Sistemas na <a href="https://cooabriel.coop.br/pt/">@cooabriel</a>, a maior cooperativa de café conilon do Brasil.
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/douglasreiscout?style=social)](https://twitter.com/douglasreiscout)
+[![Twitter Follow](https://img.shields.io/twitter/follow/douglascoutoo_?style=social)](https://twitter.com/douglascoutoo_)
 [![Linkedin: douglasreiscouto](https://img.shields.io/badge/-douglasreiscouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasreiscouto/)](https://www.linkedin.com/in/douglasreiscouto/)
 [![Intagram: douglasreiscouto](https://img.shields.io/badge/-douglasreiscouto-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/douglasreiscouto/)](https://www.instagram.com/douglasreiscouto/)
 [![Spotify: douglasreiscouto](https://img.shields.io/badge/-douglasreiscouto-monochromatic?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/ilovgg)](https://open.spotify.com/user/ilovgg)
