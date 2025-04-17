@@ -26,9 +26,9 @@
 
 <h2>👨‍💻 Trabalhos recentes</h2>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=douglasreiscouto&theme=radical" alt="Estatísticas">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact"/ alt="Top linguagens">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasreiscouto&theme=radical&layout=compact" alt="Top linguagens">
  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=douglasreiscouto&color=blue" alt="visitas ao perfil"  /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=douglasreiscouto&color=ff69b4&style=for-the-badge" alt="Visitas ao Perfil"></p>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@douglasreiscouto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Douglas' WakaTime Stats">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasreiscouto&theme=radical"/>
